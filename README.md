@@ -1,8 +1,8 @@
 ### Olá, eu sou o Harry Rodrigues!
 
-<a href="">
+<a href="/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harryrodriads&show_icons=true&theme=chartreuse-dark"/>
-<a href="">
+<a href="/">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryrodriads&layout=compact"/>
 
 ##
