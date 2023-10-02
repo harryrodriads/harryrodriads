@@ -1,4 +1,4 @@
-### Olá, eu sou o Harry Rodrigues!
+### Olá, eu sou Harry Rodrigues!
 
 <a href="/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harryrodriads&show_icons=true&theme=chartreuse-dark"/>
@@ -7,7 +7,7 @@
 
 ##
 
-### Linguagens que mais uso:
+### Linguagens Usadas:
 <div style="display: inline_block"><br>
   <img align="center" alt="Harry-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="Harry-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -18,7 +18,7 @@
 
 ##
 
-### Minhas Redes Sociais:
+### Redes Sociais:
 
 <div>
   <a href="https://www.facebook.com/harryatleticano"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
