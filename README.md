@@ -3,6 +3,8 @@
 ## Olá, meu nome é <strong>Harry Rodrigues!</strong>
 <h3> Sou um apaixonado por programação e tecnologia!</h3>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryrodriads&layout=compact"/>
+
 ### Linguagens Usadas:
 <div style="display: inline_block"><br>
   <img align="center" alt="Harry-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
