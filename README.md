@@ -1,8 +1,9 @@
-### Olá, eu sou Harry Rodrigues!
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+### Olá, meu nome é Harry Rodrigues!
+<h3> Sou um apaixonado por programação e tecnologia!</h3>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryrodriads&layout=compact"/>
-
-##
 
 ### Linguagens Usadas:
 <div style="display: inline_block"><br>
@@ -13,13 +14,19 @@
   <img align="center" alt="Harry-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
   <img align="center" alt="Harry-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Harry-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-          
-          
+
+### Ferramentas de desenvolvimento:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,ps,figma,git," />
+  </a>
+</p>
+                  
 </div>
 
-##
 
-### Redes Sociais:
+### Minhas Redes Sociais:
 
 <div>
   <a href="https://www.facebook.com/harryatleticano"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -32,6 +39,5 @@
   
 </div>
 
-##
 
 
