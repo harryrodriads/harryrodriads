@@ -9,7 +9,7 @@
 <div style="display: inline_block"><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ps,figma,git," />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,css,html,js,mysql,postgres," />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ps,figma,git," />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,figma,git," />
   </a>
 </p>
                   
