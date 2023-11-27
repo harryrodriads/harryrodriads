@@ -15,7 +15,6 @@
   <img align="center" alt="Harry-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Harry-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryrodriads&layout=compact"/>
 
 ### Ferramentas de desenvolvimento:
 
