@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-# Olá, meu nome é <strong>Harry Rodrigues!</strong>
+### Olá, meu nome é <strong>Harry Rodrigues!</strong>
 <h3> Gosto de música, programação e tecnologia!</h3>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryrodriads&layout=compact"/>
